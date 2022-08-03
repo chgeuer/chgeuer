@@ -4,10 +4,14 @@
 - 🔭 I’m currently working ...
   - ... at Microsoft Azure's FastTrack ISV team, i.e. I help ISVs get their solution running on Azure
   - ... on the [microsoft/metered-billing-accelerator](https://github.com/microsoft/metered-billing-accelerator), to help ISVs running on Azure to easily get started with metered billing.
+- I publish my stuff here on Github, but also 
+  - on my blog http://blog.geuer-pollmann.de/
+  - or my shorter things on https://cookbook.geuer-pollmann.de/
 - 💬 Ask me about
   - Metered Billing on Azure
   - Software architecture on Azure
   - Elixir on Azure
+  - Using Azure API's with just `bash`, `curl` and `jq`
   - Learning a new keyboard layout
 - 📫 How to reach me
   - Twitter: [@chgeuer](https://twitter.com/chgeuer/)
