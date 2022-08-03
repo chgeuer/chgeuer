@@ -1,12 +1,19 @@
 ### Hi there 👋
 
+- I'm Christian, based in Düsseldorf, Germany. 
+- 🔭 I’m currently working on ...
+  - [microsoft/metered-billing-accelerator](https://github.com/microsoft/metered-billing-accelerator), to help ISVs running on Azure to easily get started with metered billing.
+- 📫 How to reach me
+  - Twitter: [@chgeuer](https://twitter.com/chgeuer/)
+- 🌱 I’m constantly learning about
+  - Rust, F#, Elixir, Erlang
+
 <!--
 **chgeuer/chgeuer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
