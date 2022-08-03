@@ -8,10 +8,7 @@
   - on my blog http://blog.geuer-pollmann.de/
   - or my shorter things on https://cookbook.geuer-pollmann.de/
 - 💬 Ask me about
-  - Metered Billing on Azure
-  - Software architecture on Azure
-  - Elixir on Azure
-  - Using Azure API's with just `bash`, `curl` and `jq`
+  - Metered Billing, software architecture, or Elixir on Azure, or how to use Azure API's with just `bash`, `curl` and `jq`
   - Learning a new keyboard layout
 - 📫 How to reach me
   - Twitter: [@chgeuer](https://twitter.com/chgeuer/)
