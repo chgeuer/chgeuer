@@ -2,7 +2,7 @@
 
 - I'm Christian, based in Düsseldorf, Germany. 
 - 🔭 I’m currently working ...
-  - ... at Microsoft Azure's FastTrack ISV team, i.e. I help ISVs get their solution running on Azure
+  - ... at Microsoft Azure's Center of Excellence for ISVs and Digital Natives, i.e. I help ISVs and others who create software, get their solution running on Azure
   - ... on the [microsoft/metered-billing-accelerator](https://github.com/microsoft/metered-billing-accelerator), to help ISVs running on Azure to easily get started with metered billing.
 - I publish my stuff here on Github, but also 
   - on my blog http://blog.geuer-pollmann.de/
